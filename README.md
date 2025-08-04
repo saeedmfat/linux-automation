@@ -16,4 +16,4 @@
 
 **Tech**: bash 
 
-[➡️ **Visit Repo**](https://github.com/saeedmfat/log-analyzer-and-cleane)
+[➡️ **Visit Repo**](https://github.com/saeedmfat/log-analyzer-and-cleaner)
